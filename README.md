@@ -1,2 +1,2 @@
-# js-tutorial
-A code repo for javascript
+# JS-Tutorial
+A code repo for JavaScript beginners to advance
