@@ -42,6 +42,6 @@ function loginUserMessage(username = "Sayan"){
     return `${username} just logged in`
 }
 
-console.log(loginUserMessage("Debarghya"))
+console.log(loginUserMessage())
 
 
